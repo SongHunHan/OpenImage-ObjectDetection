@@ -1,5 +1,3 @@
-# OpenImage-ObjectDetection
-
 ```python
 pwd
 ```
