@@ -2,4 +2,5 @@ yolov5/
 OIDv4_ToolKit/
 main.ipynb
 test.ipynb
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
